@@ -1,0 +1,6 @@
+{
+  "name": "PhotoPrint Express & Delivery",
+  "description": "Multi-photo upload and custom printing platform with interactive Google Maps address checkout, DHL express tracking, user image archives, and comprehensive admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
